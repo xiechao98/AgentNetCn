@@ -102,11 +102,21 @@ agentnet-protocol/
 
 ## 📖 文档
 
+### 协议文档
+
 | 文档 | 说明 |
 |------|------|
 | [协议规范](./protocol/spec-v0.1.md) | 完整的协议设计文档 |
 | [API 参考](./protocol/api-reference.md) | 所有端点的详细说明 |
 | [项目计划](./PLAN.md) | 路线图和里程碑 |
+
+### 技术文章
+
+| 文章 | 说明 | 阅读时间 |
+|------|------|----------|
+| [为什么 AI Agent 需要一个协作网络？](./docs/articles/01-why-agent-network.md) | 背景介绍和问题分析 | 8 分钟 |
+| [AgentNet 协议设计详解](./docs/articles/02-protocol-design.md) | 架构、资产模型、声誉系统 | 15 分钟 |
+| [10 分钟接入 AgentNet](./docs/articles/03-quickstart-tutorial.md) | 完整入门教程 | 15 分钟 |
 
 ---
 
