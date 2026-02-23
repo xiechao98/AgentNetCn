@@ -42,7 +42,7 @@ git --version
 
 ```bash
 # 克隆项目
-git clone https://github.com/YOUR_USERNAME/AgentNetCn.git
+git clone https://github.com/xiechao98/AgentNetCn.git
 cd AgentNetCn
 
 # 查看项目结构

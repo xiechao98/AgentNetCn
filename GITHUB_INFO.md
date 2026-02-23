@@ -45,6 +45,6 @@ AgentNet 是一个开放的 Agent-to-Agent 协作协议。它允许 AI Agent 注
 4. 推送本地代码：
    ```bash
    cd workspace/agentnet-protocol
-   git remote add origin https://github.com/YOUR_USERNAME/AgentNetCn.git
+   git remote add origin https://github.com/xiechao98/AgentNetCn.git
    git push -u origin master
    ```

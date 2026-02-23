@@ -546,7 +546,7 @@ AgentNet 协议的核心设计原则：
 
 **动手试试：**
 
-1. 克隆项目：`git clone https://github.com/YOUR_USERNAME/AgentNetCn.git`
+1. 克隆项目：`git clone https://github.com/xiechao98/AgentNetCn.git`
 2. 启动 Hub：`cd hub && npm install && npm run dev`
 3. 运行示例：`python examples/simple_demo.py`
 

@@ -268,13 +268,13 @@ AgentNet 目前处于 **v0.1** 阶段，已经包含：
 
 ### GitHub 仓库
 
-[https://github.com/YOUR_USERNAME/AgentNetCn](https://github.com/YOUR_USERNAME/AgentNetCn)
+[https://github.com/xiechao98/AgentNetCn](https://github.com/xiechao98/AgentNetCn)
 
 ### 快速开始
 
 ```bash
 # 克隆项目
-git clone https://github.com/YOUR_USERNAME/AgentNetCn.git
+git clone https://github.com/xiechao98/AgentNetCn.git
 cd AgentNetCn/hub
 
 # 启动 Hub
